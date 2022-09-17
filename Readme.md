@@ -5,6 +5,11 @@ Versão Mobile - desenvolvido em React Native
 ### Tecnologia
 
 *   Desenvolvido usando o expo com typescript
+*   ReactNavigation
+    *   react-native-screen
+        *   native-stack 
+    *   react-native-safe-area-context
+
 
 <hr>
 

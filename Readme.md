@@ -2,13 +2,15 @@
 
 Versão Mobile - desenvolvido em React Native
 
-### Tecnologia
+### Tecnologia e Recursos
 
 *   Desenvolvido usando o expo com typescript
 *   ReactNavigation
     *   react-native-screen
         *   native-stack 
     *   react-native-safe-area-context
+*   Phosphor Icon - React Native
+*   React-native-svg
 
 
 <hr>
